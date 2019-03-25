@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  LocalizationDemo
+
+  Created by Sanjay Kumar Chaurasia on 2/28/19.
+  Copyright © 2019 Sanjay Kumar Chaurasia. All rights reserved.
+*/
+"Welcome" = "ようこそ";
+"Thank you for trying this app, you are a great person!" = "このアプリを試してくれてありがとう、あなたは素晴らしい人です！";
+"Cancel" = "キャンセル";
+"Signup" = "サインアップ";
